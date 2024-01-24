@@ -1,0 +1,37 @@
+.board {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	column-gap: 10px;
+	grid-auto-flow: column;
+}
+
+.todo,
+.inprogress,
+.done {
+	border: 1px solid grey;
+}
+
+.todo-heading,
+.inprogress-heading,
+.done-heading {
+	display: flex;
+	font-weight: bold;
+	justify-content: center;
+	border: 2px solid grey;
+	font-size: 16px;
+	color: grey;
+}
+
+.todo-container {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+	padding: 10px;
+	justify-content: center;
+
+	& > * {
+		flex: 1;
+		min-width: 0;
+		flex-basis: min-content;
+	}
+}

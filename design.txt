@@ -1,0 +1,12 @@
+1. Some design considerations.
+    - I tried to keep to atomic design principles throughout this project as atomic design reads and codes better in my opinion. 
+    - Some other design considerations were the use of And Design UI Framework over others like TailwindCSS and React-Bootstrap was primarily because I wanted a specific look and feel to the Kanban board that I think Ant Design could achieve even better than other UI frameworks.
+    - I also decided to use ContextAPI and Fetch over Redux and REST because for a small project like this, having such big architecture and functionality would go to waste completely.
+
+2. Some features that I would have liked to include if I had more time would be:
+    - a custom API linked to a service that would store all of the task entries on a DB or server for efficient reusability.
+    - I would add more features like a drag and drop functionality
+
+Credentials:
+Admin account Username: kminchelle Password: 0lelplR
+Non-admin account: Any account available here: https://dummyjson.com/docs/users eg. Username: atuny0 Password: 9uQFF1Lh
