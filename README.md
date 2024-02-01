@@ -1,8 +1,8 @@
 # To run this app use the following commands:
-### npm install
-### npm start
+#### npm install
+#### npm start
 
-# Please feel free to look at design.txt for design considerations and login credentials
+## Please feel free to look at design.txt for design considerations and login credentials
 
 # This project uses the following frameworks, UIs and packages:
 1. Create React App (https://github.com/facebook/create-react-app).
