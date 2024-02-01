@@ -14,4 +14,10 @@
 6. Sweet Alert 2 (https://sweetalert2.github.io/).
 7. Font Awesome Icons (https://fontawesome.com/icons).
 
-
+# Credentials:
+## Admin account: 
+Username: kminchelle 
+Password: 0lelplR
+## Non-admin account: 
+Any account available here: https://dummyjson.com/docs/users 
+eg. Username: atuny0 Password: 9uQFF1Lh
